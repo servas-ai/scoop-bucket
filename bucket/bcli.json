@@ -1,5 +1,5 @@
 {
-    "version": "0.14.2",
+    "version": "0.14.4",
     "description": "CLI for servas.ai Browser as a Service: real, headed cloud browsers for agents and tests over CDP",
     "homepage": "https://github.com/servas-ai/bcli-public",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/servas-ai/bcli-public/releases/download/v0.14.2/bcli-windows-amd64.exe#/bcli.exe",
-            "hash": "bd34ce1b364356258405d55d707e38027cab4cd4154796c25b9330899d0406c6"
+            "url": "https://github.com/servas-ai/bcli-public/releases/download/v0.14.4/bcli-windows-amd64.exe#/bcli.exe",
+            "hash": "80db71d8410852cbe58b85aefa484e9abb7ebbeafbbe2796fedecdf2c578c10a"
         }
     },
     "bin": "bcli.exe",
